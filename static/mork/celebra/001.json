@@ -1,0 +1,54 @@
+{
+    "data": {
+        "CeleWeek": [
+            {
+                "imgUrl": "https://imgs.qunarzz.com/sight/p0/1501/c9/c936199619206dd1.water.jpg_640x276_6cff1f89.jpg",
+                "name": "莲花山滑雪场",
+                "desc": "滑雪场中还有绿色生态园哦",
+                "price": "120"
+            },
+            {
+                "imgUrl": "https://imgs.qunarzz.com/sight/p0/1411/43/dea8b51719a4a69b68777baa68c146e4.water.jpg_640x276_775c187f.jpg",
+                "name": "春晖园温泉度假村",
+                "desc": "北京高端温泉，近年价格越来越亲民",
+                "price": "113"
+            },
+            {
+                "imgUrl": "https://imgs.qunarzz.com/sight/p0/1603/b2/b29346404fa3cebb90.water.jpg_640x276_0f0644db.jpg",
+                "name": "万科石京龙滑雪场",
+                "desc": "雪质地松软，感如毡毯",
+                "price": "138"
+            },
+            {
+                "imgUrl": "https://imgs.qunarzz.com/sight/p0/1711/f7/f7bf42e9910aa1a3.img.jpg_640x276_8fe2222a.jpg",
+                "name": "云佛滑雪场",
+                "desc": "设施齐全的一座滑雪场",
+                "price": "105"
+            },
+            {
+                "imgUrl": "https://imgs.qunarzz.com/sight/p0/1511/d2/d2aec2dfc5aa771290.water.jpg_640x276_83c7fab0.jpg",
+                "name": "南山滑雪场",
+                "desc": "北京专业级滑雪圣地",
+                "price": "140"
+            },
+            {
+                "imgUrl": "https://imgs.qunarzz.com/sight/p0/1511/bb/bb02aefbf00b50e90.water.jpg_640x276_075f822f.jpg",
+                "name": "万龙滑雪场",
+                "desc": "踏着魔鬼步伐,万龙滑雪场去野",
+                "price": "199"
+            },
+            {
+                "imgUrl": "https://imgs.qunarzz.com/sight/p0/1507/36/ce3d2d6c9ab44d67ae68d940b8781829.water.jpg_640x276_84381762.jpg",
+                "name": "北京野生动物园 ",
+                "desc": "北京郊区的一座大型自然生态动物园",
+                "price": "121"
+            },
+            {
+                "imgUrl":"",
+                "name":"",
+                "desc":"",
+                "price":""
+                    }
+        ]
+    }
+}

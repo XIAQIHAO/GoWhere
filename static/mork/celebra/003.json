@@ -1,0 +1,55 @@
+{
+    "data":{
+        "CeleWeek":[
+            {
+                "imgUrl": "https://imgs.qunarzz.com/sight/p0/1708/2b/2b3b94de99c0a425a3.img.jpg_640x276_880d464b.jpg",
+                "name": "八达岭长城",
+                "desc": "八达岭长城",
+                "price": "40.0"
+            },
+            {
+                "imgUrl": "https://imgs.qunarzz.com/sight/p0/1501/f4/f467729126949c3a.water.jpg_640x276_267de9bb.jpg",
+                "name": "天安门广场",
+                "desc": "世界上最大的城市中心广场，北京的心脏",
+                "price": "35"
+            },
+            {
+                "imgUrl": "https://imgs.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_640x276_a9486045.jpg",
+                "name": "故宫",
+                "desc": "红墙瓦砾，有种岁月沧桑感，一朝天子一风云",
+                "price": "60"
+            },
+            {
+                "imgUrl": "https://imgs.qunarzz.com/sight/p0/1505/d2/d274c92de14c93da.water.jpg_640x276_ab6b8603.jpg",
+                "name": "颐和园",
+                "desc": "历史雕琢的角落，在灿烂的阳光下兀自美好着",
+                "price": "38"
+            },
+            {
+                "imgUrl": "https://imgs.qunarzz.com/sight/p0/1505/f5/f5f45e1a83537bcb.water.jpg_640x276_91cd6a4f.jpg",
+                "name": "圆明园",
+                "desc": "追忆昔日万园之园",
+                "price": "25"
+            },
+            {
+                "imgUrl": "https://imgs.qunarzz.com/sight/p0/201405/12/51b63883c25f5d87af3c08bb016e2bd7.jpg_640x276_f784a0e8.jpg",
+                "name": "恭王府",
+                "desc": "一起去看看和珅家",
+                "price": "27"
+            },
+            {
+                "imgUrl": "https://imgs.qunarzz.com/sight/p0/1708/2b/2b6378fd3b2e1d86a3.img.jpg_640x276_dd580850.jpg",
+                "name": "慕田峪长城",
+                "desc": "电影《非诚勿扰》取景地",
+                "price": "40"
+            },
+            {
+                "imgUrl": "https://imgs.qunarzz.com/sight/p0/1903/5d/5dcaf453dfd6f5dba3.img.jpg_640x276_8c93045f.jpg",
+                "name": "古北水镇",
+                "desc": "走进那个画中的小镇",
+                "price": "140"
+            }
+           
+        ]
+    }
+}

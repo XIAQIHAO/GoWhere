@@ -1,0 +1,55 @@
+{
+    "data": {
+        "CeleWeek": [
+            {
+                "imgUrl": "https://imgs.qunarzz.com/sight/p0/1602/68/68aa05adb5315f9990.water.jpg_640x276_03477cf6.jpg",
+                "name": "北京海洋馆",
+                "desc": "奇幻海洋之旅，在帝都感受大海的魅力",
+                "price": "175"
+            },
+            {
+                "imgUrl": "https://imgs.qunarzz.com/sight/p0/1901/ea/ea459039354370daa3.img.jpg_640x276_41c360d3.jpg",
+                "name": "世界公园",
+                "desc": "40个国家的109处著名古迹名胜微缩景点",
+                "price": "53.6"
+            },
+            {
+                "imgUrl": "https://imgs.qunarzz.com/sight/p0/201308/08/41150dacc0e3a0c8c8d65eac.jpg_640x276_b2e54fbe.jpg",
+                "name": "北京动物园",
+                "desc": "百余种动物，让你离自然更近",
+                "price": "76"
+            },
+            {
+                "imgUrl": "https://imgs.qunarzz.com/sight/p0/1602/f9/f9095e245afd18fb90.water.jpg_640x276_99f0a1fb.jpg",
+                "name": "中央电视塔",
+                "desc": "登高望远，俯瞰北京城",
+                "price": "80"
+            },
+            {
+                "imgUrl": "https://imgs.qunarzz.com/sight/p0/1501/f4/f467729126949c3a.water.jpg_640x276_267de9bb.jpg",
+                "name": "天安门广场",
+                "desc": "我爱北京天安门，天安门上太阳升",
+                "price": "35"
+            },
+            {
+                "imgUrl": "https://imgs.qunarzz.com/sight/p0/1507/36/ce3d2d6c9ab44d67ae68d940b8781829.water.jpg_640x276_84381762.jpg",
+                "name": "北京野生动物园",
+                "desc": "北京郊区的一座大型自然生态动物园",
+                "price": "121"
+            },
+            {
+                "imgUrl": "https://imgs.qunarzz.com/sight/p0/1503/dc/dc651cd2e01fb900.img.jpg_640x276_d86a7f11.jpg",
+                "name": "南宫温泉水世界",
+                "desc": "温泉与水世界，沐浴与戏水的有趣结合",
+                "price": "55"
+            },
+            {
+                "imgUrl": "https://imgs.qunarzz.com/sight/p0/1507/59/76e0dc86d4416f913d9d919ec79ffe0e.water.jpg_640x276_11e979a9.jpg",
+                "name": "北京汽车博物馆",
+                "desc": "感受汽车的无穷魅力，享受汽车的无限乐趣",
+                "price": "22"
+            }
+           
+        ]
+    }
+}

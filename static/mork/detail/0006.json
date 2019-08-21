@@ -1,0 +1,85 @@
+
+{
+    "data":{
+        "List":
+            {
+                "imgUrl":"//img1.qunarzz.com/sight/p0/1501/c2/c212a154649088c1.water.jpg_600x330_7c2c86d3.jpg",
+                "title":"水立方嬉水乐园",
+                "num":"4",
+                "score":"4.9",
+                "desc":"很棒",
+                "comments":"4892",
+                "menu":"35",
+                "adress":"北京市朝阳区天辰东路11号奥林匹克公园内",
+                "imgList":[
+                    "http://img1.qunarzz.com/sight/p0/1501/c2/c212a154649088c1.water.jpg_350x240_b089a2ea.jpg",
+                    "http://img1.qunarzz.com/sight/p0/201403/10/dabca6eae718d0239c60b056910786f7.jpg_350x240_17fad609.jpg",
+                    "http://img1.qunarzz.com/sight/p0/1501/1f/1f12027cf8068616.water.jpg_350x240_6ef8f1c3.jpg",
+                    "http://img1.qunarzz.com/sight/p0/1501/a2/a25e0078b6191fa8.water.jpg_350x240_61361bc9.jpg"
+                ]
+            },
+            "product":[
+                {
+                    "title":"水立方游泳馆一票通2小时畅游",
+                    "current":"18:00前随买随用",
+                    "style":["随时退"],
+                    "imgUrl":"https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
+                    "price":"55"
+                },
+                {
+                    "title":"水立方嬉水乐园全园通玩全天成人票",
+                    "current":"18:00前随买随用",
+                    "style":["条件退"],
+                    "imgUrl":"https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
+                    "price":"245"
+                },
+                {
+                    "title":"【去哪儿精选】北京三环内上门接慕田峪长城3小时无购物一日游",
+                    "current":"可订明日",
+                    "style":["条件退","无购物","已售3099"],
+                    "imgUrl":"https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
+                    "price":"158"
+                }
+            
+            ],
+            "comment":[
+                {
+                    "desc":"感谢杨丽导游一路讲解，我们去了八达岭长城和定陵，最后在水立方离团，一路无购物，上长城的览车费是自费，每人140元，我们在奥体中心坐的观光车，每人30，别的没有自费，买水，买水果，买纪念品，这些自愿，杨导不会带你去买的，最后临別杨导辽给推荐了不少吃北京小吃的好地方",
+                    "store":"5.0",
+                    "date":"2019-06-27",
+                    "imgList":[
+                        "http://img1.qunarzz.com/piao/fusion/1906/a8/90c59c5be5995602.jpg_228x168_3c2fbafc.jpg",
+                        "http://img1.qunarzz.com/piao/fusion/1906/43/dbcc146e0f4f6c02.jpg_228x168_f08148f4.jpg",
+                        "http://img1.qunarzz.com/piao/fusion/1906/60/96b3cc5530c30502.jpg_228x168_c92380f6.jpg",
+                        "http://img1.qunarzz.com/piao/fusion/1906/2f/8c95729f5808d102.jpg_228x168_2c59a65e.jpg",
+                        "http://img1.qunarzz.com/piao/fusion/1906/61/b46cefeb4a083102.jpg_228x168_7d4716d5.jpg",
+                        "http://img1.qunarzz.com/piao/fusion/1906/95/7e0c3e1fe7209e02.jpg_228x168_85861604.jpg",
+                        "http://img1.qunarzz.com/piao/fusion/1906/a6/363fbf4c6bcbec02.jpg",
+                        "http://img1.qunarzz.com/piao/fusion/1906/5f/faed0d7acaabcf02.jpg",
+                        "http://img1.qunarzz.com/piao/fusion/1906/9f/eb0d191acbe0bc02.jpg_228x168_6001e982.jpg"
+                    ],
+                    "ishow":false,
+                    "ishows":false
+                },
+                {
+                    "desc":"此次游玩非常好，导游尤其负责，耐心讲解，将景区的所有好玩的地方和该去不该去的地方详细给我们讲解。非常负责，我们玩的非常开心😊，在定陵时给我们细心讲解此处的讲究。在八达岭时因为堵车特意酌情给我们延长了游玩时间，真是一次非常愉快的旅行！",
+                    "store":"5.0",
+                    "date":"2019-08-12",
+                    "imgList":[
+                        "http://img1.qunarzz.com/piao/fusion/1908/ae/d97613433f536002.jpg_228x168_fd0fa179.jpg",
+                        "http://img1.qunarzz.com/piao/fusion/1908/d8/07b425715b7ff602.jpg_228x168_fcda43a3.jpg",
+                        "http://img1.qunarzz.com/piao/fusion/1908/45/a64a8ecb66195002.jpg_228x168_737c5c15.jpg",
+                        "http://img1.qunarzz.com/piao/fusion/1908/68/cc9d8e9d9f342402.jpg_228x168_89a8c0a0.jpg",
+                        "http://img1.qunarzz.com/piao/fusion/1908/e5/a80adc0b8ab1b702.jpg_228x168_5fe2f24e.jpg",
+                        "http://img1.qunarzz.com/piao/fusion/1908/5a/1f94bec0cdd09002.jpg_228x168_7865d719.jpg",
+                        "http://img1.qunarzz.com/piao/fusion/1908/a1/bf4d7503c0341902.jpg_228x168_8748bb51.jpg",
+                        "http://img1.qunarzz.com/piao/fusion/1908/31/0b87b2e6fc6dfc02.jpg"
+                    ],
+                    "ishow":false,
+                    "ishows":false
+                }
+               
+            ]
+        
+    }
+}

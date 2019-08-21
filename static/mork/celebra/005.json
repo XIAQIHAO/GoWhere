@@ -1,0 +1,37 @@
+{
+    "data":{
+       "CeleWeek":[
+        {
+            "imgUrl": "https://imgs.qunarzz.com/sight/p0/1603/ad/ad84d5339c3a34f390.water.jpg_640x276_9cdbe8c8.jpg",
+            "name": "十渡风景区",
+            "desc": "远离城市喧嚣，感受自然之美",
+            "price": "36"
+        },
+        {
+            "imgUrl": "https://imgs.qunarzz.com/sight/p0/1603/11/1135f85716636eb090.water.jpg_640x276_75868cb8.jpg",
+            "name": "幽谷神潭",
+            "desc": "游客寻幽探险、休闲度假的绝好去处",
+            "price": "40"
+        },
+        {
+            "imgUrl": "https://imgs.qunarzz.com/sight/p0/1608/13/1303d2401d2b5aada3.water.jpg_640x276_fb9cdb18.jpg",
+            "name": "密云黑龙潭",
+            "desc": "黑龙潭壮美冰瀑名不虚传~",
+            "price": "1"
+        },
+        {
+            "imgUrl": "https://imgs.qunarzz.com/sight/p0/1905/2e/2ed0bf2cfb2ed1d6a3.img.jpg_640x276_752cce1b.jpg",
+            "name": "清凉谷风景区",
+            "desc": "幽谷听溪，寻芳青岗，释放年轻的自我",
+            "price": "40"
+        },
+        {
+            "imgUrl": "https://imgs.qunarzz.com/sight/p0/1507/14/77271e0d50733ea9d4b3b1534f813d4c.water.jpg_640x276_1b0645fb.jpg",
+            "name": "桃源仙谷",
+            "desc": "森林茂密,气象万千,以湖、瀑、潭而著称",
+            "price": "34"
+        }
+       
+       ]
+    }
+}

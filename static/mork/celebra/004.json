@@ -1,0 +1,48 @@
+{
+    "data":{
+        "CeleWeek":[
+            {
+                "imgUrl": "https://imgs.qunarzz.com/sight/p0/1603/ad/ad84d5339c3a34f390.water.jpg_640x276_9cdbe8c8.jpg",
+                "name": "十渡风景区",
+                "desc": "远离城市喧嚣，感受自然之美",
+                "price": "36"
+            },
+            {
+                "imgUrl":"https://imgs.qunarzz.com/sight/p0/201403/07/f9b277ef70e322bfa6c8b6047d5eae42.jpg_640x276_69986052.jpg",
+                "name": "京螺汤河一川漂流",
+                "desc": "",
+                "price": "230"
+            },
+            {
+                "imgUrl": "https://imgs.qunarzz.com/sight/p0/1704/e5/e563c58cd2f9b937a3.img.jpg_640x276_97d70801.jpg",
+                "name": "云梦仙境",
+                "desc": "春野花，夏翠谷，秋红叶",
+                "price": "40"
+            },
+            {
+                "imgUrl": "https://imgs.qunarzz.com/sight/p0/201301/16/337491ffd4fbc44f93835fbb.jpg_640x276_5cde92d8.jpg",
+                "name": "十渡龙湖湾漂流",
+                "desc": "山奇水秀，峰林叠翠、石美潭深，景致幽胜",
+                "price": "68"
+            },
+            {
+                "imgUrl": "https://imgs.qunarzz.com/sight/p0/201403/10/3938b10f8b6e8b5505462c41fb723bf8.jpg_640x276_2d1df3d6.jpg",
+                "name": "十渡拒马河漂流",
+                "desc": "景色秀丽，以河流宽阔、激流众多而闻名",
+                "price": "58"
+            },
+            {
+                "imgUrl": "https://imgs.qunarzz.com/sight/p0/201307/22/53ee9d6ef7c5377ec8d65eac.jpg_640x276_9a5fdd64.jpg",
+                "name": "十一渡漂流",
+                "desc": "在青山绿水中游荡，宛如画中人",
+                "price": "178"
+            },
+            {
+                "imgUrl": "https://imgs.qunarzz.com/sight/p0/1707/e4/e484b8bc1bfd4411a3.img.jpg_640x276_81f8d60f.jpg",
+                "name": "拒马河十五渡漂流",
+                "desc": "惊险刺激，乐趣多多",
+                "price": "260"
+            }
+        ]
+    }
+}
